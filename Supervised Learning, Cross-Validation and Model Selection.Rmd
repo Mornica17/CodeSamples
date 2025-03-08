@@ -13,14 +13,14 @@ library(GEOquery)
 library(DESeq2)
 library(Biobase)
 library(tidymodels)
-library(tidyr) # 用於數據整形
+library(tidyr) 
 library(kernlab)
 library(vip)
-library(ggplot2) # 用於繪圖
+library(ggplot2) 
 library(DALEXtra)
 library(modeldata)
 library(forcats)
-library(dplyr)  # 用於數據處理
+library(dplyr)  
 library(doParallel)
 library(foreach)
 library(dplyr)
@@ -34,7 +34,7 @@ library(e1071)  # SVM
 library(randomForest)  # Random Forest
 options(warn = -1)
 ```
-
+#### Using RNA dataset for supervised learning, cross-validation and model selection approaches.
 
 ## Problem 1
 
